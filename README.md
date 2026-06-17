@@ -15,7 +15,7 @@
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=2800&pause=900&color=F5F5F7&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Founding%20Product%20Architect;100%2B%20Shipped%20Projects%20%E2%80%A2%20Zero%20to%20Production;Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%20%E2%80%A2%20SaaS%20%E2%80%A2%20Commerce;Solo%20Building%20Since%202019"
+    src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=26&duration=2800&pause=900&color=F5F5F7&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=110&lines=Founding%20Product%20Architect;100%2B%20Shipped%20Projects%20%E2%80%A2%20Zero%20to%20Production;20%2B%20Years%20%E2%80%A2%20Every%20Stack%20%E2%80%A2%20Still%20Shipping;Solo%20Building%20Since%202019"
     alt="Typing SVG"
   />
 </a>
@@ -54,6 +54,7 @@ const kursat = {
   builds:  ["MVPs", "Live Products", "Mobile Apps", "SaaS", "AI Workflows"],
   based:   "Istanbul, Türkiye",
   archive: "100+ shipped projects, mostly solo",
+  origin:  "Wrote my first BASIC at 10. 20+ years, still shipping.",
 
   superpowers: [
     "Connect user flows, data models, APIs, UI, payments, notifications, launch strategy",
@@ -70,6 +71,27 @@ const kursat = {
   ],
 
   availability: "open"
+};
+```
+
+---
+
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/compass.svg" width="20" valign="middle" alt=""/> Origin
+
+```ts
+// Twenty years. Every layer of the stack. Still shipping.
+const origin = {
+  age_10:   "First lines of BASIC, copied from a magazine",
+  teens:    "Web, mobile, servers — whatever I could get my hands on",
+  since_19: "Went solo. 100+ products shipped end-to-end since",
+  today:    "Founding Product Architect — kernel to pixel, design to deploy",
+
+  belief: [
+    "Code is a craft, not a job title",
+    "If it can be imagined, it can be shipped",
+    "Every layer of the stack is fair game",
+    "Solo by choice, full-stack by craft"
+  ]
 };
 ```
 
