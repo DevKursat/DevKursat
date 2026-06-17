@@ -60,7 +60,8 @@ const kursat = {
     "Connect user flows, data models, APIs, UI, payments, notifications, launch strategy",
     "Simplify messy problems into clear product decisions",
     "Break blockers fast — unclear scope, API gaps, time pressure don't stop delivery",
-    "Own the product end-to-end: design → code → ship → measure → iterate"
+    "Own the product end-to-end: design → code → ship → measure → iterate",
+    "Train and ship young engineers from zero to production-ready"
   ],
 
   looking_for: [
@@ -85,12 +86,14 @@ const origin = {
   teens:      "Web, mobile, servers — whatever I could get my hands on",
   since_2019: "Went solo. 100+ products shipped end-to-end since",
   today:      "21. Founding Product Architect — kernel to pixel, design to deploy",
+  also:       "Trained and shipped the next generation of builders into production",
 
   belief: [
     "Code is a craft, not a job title",
     "If it can be imagined, it can be shipped",
     "Every layer of the stack is fair game",
-    "Solo by choice, full-stack by craft"
+    "Solo by choice, full-stack by craft",
+    "Multiply the team — every engineer I ship is leverage that compounds"
   ]
 };
 ```
