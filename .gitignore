@@ -1,0 +1,8 @@
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Local scripts (not part of the repo)
+push.sh
