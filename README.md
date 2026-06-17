@@ -1,6 +1,6 @@
 <!--
   DevKursat (Kürşat Yılmaz) - GitHub Profile README
-  Style: Apple-grade minimalism, no emojis, refined palette
+  Style: Apple-grade minimalism, no emojis, Lucide icons inline
 -->
 
 <div align="center">
@@ -45,7 +45,7 @@
 
 ---
 
-## About me
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/user-circle.svg" width="20" valign="middle" alt=""/> About me
 
 ```ts
 const kursat = {
@@ -75,7 +75,7 @@ const kursat = {
 
 ---
 
-## Flagship Products
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/rocket.svg" width="20" valign="middle" alt=""/> Flagship Products
 
 > Mostly solo-built, live, in production. 100+ projects in the archive; this is the curated selection.
 
@@ -83,7 +83,7 @@ const kursat = {
   <tr>
     <td width="50%" valign="top">
 
-### Otag — Cultural Social Network
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/globe.svg" width="18" valign="middle" alt=""/> Otag — Cultural Social Network
 `2024 → Present` · *Founder, Product Architect, Lead Developer*
 
 - Cultural community ecosystem: social feed, notifications, DM, profiles, location, mentorship, events, engagement economy.
@@ -94,7 +94,7 @@ const kursat = {
 </td>
     <td width="50%" valign="top">
 
-### VoltNet — Unified EV Charging Network
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/zap.svg" width="18" valign="middle" alt=""/> VoltNet — Unified EV Charging Network
 `2025 → 2026` · *Product Builder, Lead Developer*
 
 - Map-centric platform unifying multiple EV charging providers into one UX.
@@ -107,7 +107,7 @@ const kursat = {
   <tr>
     <td width="50%" valign="top">
 
-### Lusid AI — AI Journaling & Dream Analysis
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/moon-star.svg" width="18" valign="middle" alt=""/> Lusid AI — AI Journaling & Dream Analysis
 `2023 → 2025` · *Product Builder, Lead Developer*
 
 - AI-powered personal insight: journaling, dream interpretation, creative writing, anonymous sharing.
@@ -118,7 +118,7 @@ const kursat = {
 </td>
     <td width="50%" valign="top">
 
-### OpsPilot AI — Workflow Automation Platform
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/bot.svg" width="18" valign="middle" alt=""/> OpsPilot AI — Workflow Automation Platform
 `2024 → 2025` · *Product Architect, Full-Stack Developer*
 
 - AI-assisted workflows across forms, documents, notifications, decisions and task tracking.
@@ -132,13 +132,13 @@ const kursat = {
 
 ---
 
-## Completed Architectures
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/archive.svg" width="20" valign="middle" alt=""/> Completed Architectures
 
 <table>
   <tr>
     <td width="33%" valign="top">
 
-### CommerceOS
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/shopping-cart.svg" width="16" valign="middle" alt=""/> CommerceOS
 `2019 → 2023` · **B2B / SME**
 
 - E-commerce, CRM, inventory, orders, payments, reservations, admin dashboards.
@@ -148,7 +148,7 @@ const kursat = {
 </td>
     <td width="33%" valign="top">
 
-### HospitalityOS
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/utensils.svg" width="16" valign="middle" alt=""/> HospitalityOS
 `2022 → 2023` · **Fine dining, tourism**
 
 - TR/EN/FR QR menus, ops panel, live prices, Stripe tipping, loyalty, wait-time engagement.
@@ -158,7 +158,7 @@ const kursat = {
 </td>
     <td width="33%" valign="top">
 
-### Mobile Product Lab
+### <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/smartphone.svg" width="16" valign="middle" alt=""/> Mobile Product Lab
 `2024 → 2025` · **Consumer apps**
 
 - End-to-end pipeline: idea → UX → Figma → React Native → App Store → iteration.
@@ -171,7 +171,7 @@ const kursat = {
 
 ---
 
-## What I reach for
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/wrench.svg" width="20" valign="middle" alt=""/> What I reach for
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,html,css,tailwind,figma&theme=dark" alt="Frontend"/><br/>
@@ -185,7 +185,7 @@ const kursat = {
 
 ---
 
-## Recognition
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/award.svg" width="20" valign="middle" alt=""/> Recognition
 
 <div align="center">
 
@@ -201,7 +201,7 @@ const kursat = {
 
 ---
 
-## Contribution snake
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/activity.svg" width="20" valign="middle" alt=""/> Contribution snake
 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/DevKursat/DevKursat/output/github-snake.svg" />
@@ -209,7 +209,7 @@ const kursat = {
 
 ---
 
-## Open to
+## <img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/briefcase.svg" width="20" valign="middle" alt=""/> Open to
 
 <div align="center">
 

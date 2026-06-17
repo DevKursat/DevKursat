@@ -19,8 +19,10 @@ jobs:
             ./dist/github-snake.svg
             ./dist/github-snake-dark.svg
           palettes: |
-            github-snake: ["#2C1810,#40E0D0,#5FEED0,#1A0F08,#40E0D0"]
-            github-snake-dark: ["#2C1810,#40E0D0,#5FEED0,#1A0F08,#40E0D0"]
+            {
+              "github-snake": ["#2C1810,#40E0D0,#5FEED0,#1A0F08,#40E0D0"],
+              "github-snake-dark": ["#2C1810,#40E0D0,#5FEED0,#1A0F08,#40E0D0"]
+            }
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
