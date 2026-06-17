@@ -1,7 +1,6 @@
 <!--
   DevKursat (Kürşat Yılmaz) - GitHub Profile README
-  Style: Apple-grade minimalism + motion + playful details
-  Generated from CV (June 2026).
+  Style: Apple-grade minimalism, no emojis, refined palette
 -->
 
 <div align="center">
@@ -39,14 +38,14 @@
   <img src="https://img.shields.io/github/followers/DevKursat?style=for-the-badge&color=0A0A0A&logo=github&logoColor=white&label=Followers" alt="Followers"/>
   <img src="https://img.shields.io/badge/100%2B-Shipped%20Projects-0A0A0A?style=for-the-badge" alt="Projects"/>
   <img src="https://img.shields.io/badge/5K%2B-Users%20Launched-0A0A0A?style=for-the-badge" alt="Users"/>
-  <img src="https://img.shields.io/badge/ISTANBUL-%F0%9F%87%B9%F0%9F%87%B7-0A0A0A?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/ISTANBUL-0A0A0A?style=for-the-badge" alt="Location"/>
 </p>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> About me
+## About me
 
 ```ts
 const kursat = {
@@ -70,36 +69,35 @@ const kursat = {
     "High-ownership engineering role in EU / international product teams"
   ],
 
-  // available, hybrid, on-site
   availability: "open"
 };
 ```
 
 ---
 
-## 🚀 Flagship Products
+## Flagship Products
 
-> Mostly solo-built, live, in production. **100+ projects** in the archive; this is the curated selection.
+> Mostly solo-built, live, in production. 100+ projects in the archive; this is the curated selection.
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🌐 Otag — Cultural Social Network
+### Otag — Cultural Social Network
 `2024 → Present` · *Founder, Product Architect, Lead Developer*
 
 - Cultural community ecosystem: social feed, notifications, DM, profiles, location, mentorship, events, engagement economy.
-- Designed the **feed algorithm, engagement mechanics, monetisation layer and moderation flows**.
-- **5,000+ users in the first launch month** as the sole technical founder.
+- Designed the feed algorithm, engagement mechanics, monetisation layer and moderation flows.
+- 5,000+ users in the first launch month as the sole technical founder.
 - **Stack:** React · TypeScript · Supabase · Realtime · RLS · PWA · Figma
 
 </td>
     <td width="50%" valign="top">
 
-### ⚡ VoltNet — Unified EV Charging Network
+### VoltNet — Unified EV Charging Network
 `2025 → 2026` · *Product Builder, Lead Developer*
 
-- Map-centric platform unifying **multiple EV charging providers** into one UX.
+- Map-centric platform unifying multiple EV charging providers into one UX.
 - Normalised real-time station data, availability, routing, pricing and payments across 3rd-party APIs.
 - Led user research, UX, backend architecture, PostgreSQL modelling end to end.
 - **Stack:** React · React Native · Node.js · PostgreSQL · Mapbox · Figma
@@ -109,23 +107,23 @@ const kursat = {
   <tr>
     <td width="50%" valign="top">
 
-### 🌙 Lusid AI — AI Journaling & Dream Analysis
+### Lusid AI — AI Journaling & Dream Analysis
 `2023 → 2025` · *Product Builder, Lead Developer*
 
 - AI-powered personal insight: journaling, dream interpretation, creative writing, anonymous sharing.
 - Privacy-first data architecture, anonymous community mechanics, calm mobile experience.
-- Turned AI from a surface feature into a **repeat-use personal reflection loop**.
+- Turned AI from a surface feature into a repeat-use personal reflection loop.
 - **Stack:** React Native · Node.js · Supabase · AI API · Figma
 
 </td>
     <td width="50%" valign="top">
 
-### 🤖 OpsPilot AI — Workflow Automation Platform
+### OpsPilot AI — Workflow Automation Platform
 `2024 → 2025` · *Product Architect, Full-Stack Developer*
 
 - AI-assisted workflows across forms, documents, notifications, decisions and task tracking.
 - Prompt pipelines, user roles, secure data models, activity history, operational dashboards.
-- A real example of turning a **messy operational process into a working product**.
+- A real example of turning a messy operational process into a working product.
 - **Stack:** React · Node.js · Supabase · AI API · Workflow Engine · Webhooks
 
 </td>
@@ -134,23 +132,23 @@ const kursat = {
 
 ---
 
-## 📦 Completed Architectures
+## Completed Architectures
 
 <table>
   <tr>
     <td width="33%" valign="top">
 
-### 🛒 CommerceOS
+### CommerceOS
 `2019 → 2023` · **B2B / SME**
 
 - E-commerce, CRM, inventory, orders, payments, reservations, admin dashboards.
-- Delivered **15+ custom systems** from client brief to production launch.
+- Delivered 15+ custom systems from client brief to production launch.
 - **Stack:** Laravel · PHP · MySQL · JS · REST · Stripe · SEO
 
 </td>
     <td width="33%" valign="top">
 
-### 🍽️ HospitalityOS
+### HospitalityOS
 `2022 → 2023` · **Fine dining, tourism**
 
 - TR/EN/FR QR menus, ops panel, live prices, Stripe tipping, loyalty, wait-time engagement.
@@ -160,11 +158,11 @@ const kursat = {
 </td>
     <td width="33%" valign="top">
 
-### 📱 Mobile Product Lab
+### Mobile Product Lab
 `2024 → 2025` · **Consumer apps**
 
 - End-to-end pipeline: idea → UX → Figma → React Native → App Store → iteration.
-- Published apps on **App Store / Google Play** under consumer and social-good categories.
+- Published apps on App Store / Google Play under consumer and social-good categories.
 - **Stack:** React Native · TS · Firebase · Supabase · Figma
 
 </td>
@@ -173,14 +171,11 @@ const kursat = {
 
 ---
 
-## 🛠 What I reach for
+## What I reach for
 
 <p align="center">
-  <!-- FRONTEND & MOBILE -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,html,css,tailwind,figma&theme=dark" alt="Frontend"/><br/>
-  <!-- BACKEND & DATA -->
   <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,express,nestjs,postgres,mysql,mongodb,supabase,firebase&theme=dark" alt="Backend"/><br/>
-  <!-- INFRA & TOOLS -->
   <img src="https://skillicons.dev/icons?i=vercel,netlify,docker,nginx,git,github,vscode,linux,postman&theme=dark" alt="Infra"/>
 </p>
 
@@ -190,63 +185,39 @@ const kursat = {
 
 ---
 
-## 📊 GitHub, in numbers
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevKursat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F5F5F7&text_color=A1A1A6&icon_color=F5F5F7&rank_icon=percentile&include_all_commits=true&count_private=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/streak?username=DevKursat&theme=github_dark&hide_border=true&background=0d1117&ring=F5F5F7&fire=F5F5F7&currStreakLabel=F5F5F7&sideLabels=A1A1A6&dates=A1A1A6" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKursat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=F5F5F7&text_color=A1A1A6&langs_count=8" alt="Top Langs"/>
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=DevKursat&theme=gitdim&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" alt="Trophies"/>
-</p>
-
----
-
-## 🏆 Recognition
+## Recognition
 
 <div align="center">
 
 | | |
 | :- | :- |
-| 🏅 | **GitHub Arctic Code Vault Contributor** — code archived for 1000 years |
-| 🏅 | **FlutterFlow Ambassador** — recognised builder |
-| 📱 | **App Store / Google Play published apps** — shipped consumer products |
-| 📚 | **42 Istanbul** — Software Development Program |
-| 🎓 | **Ankara University** — Bachelor's Degree, since 2023 |
+| | **GitHub Arctic Code Vault Contributor** — code archived for 1000 years |
+| | **FlutterFlow Ambassador** — recognised builder |
+| | **App Store / Google Play published apps** — shipped consumer products |
+| | **42 Istanbul** — Software Development Program |
+| | **Ankara University** — Bachelor's Degree, since 2023 |
 
 </div>
 
 ---
 
-## 🐍 Contribution snake (yes, it eats your commits)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevKursat/DevKursat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevKursat/DevKursat/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DevKursat/DevKursat/output/github-snake-dark.svg" />
-</picture>
-
----
-
-## 📈 Activity graph
+## Contribution snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKursat&theme=github-compact&hide_border=true&bg_color=0d1117&color=F5F5F7&line=F5F5F7&point=A1A1A6&area=true&area_color=ffffff22" alt="Activity Graph" width="98%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DevKursat/DevKursat/output/github-snake.svg" />
 </p>
 
 ---
 
-## 🤝 Open to
+## Open to
 
 <div align="center">
 
-🟢 **Senior Full-Stack** · 🟢 **Product Architect** · 🟢 **Technical Founder / Builder**
+**Senior Full-Stack** · **Product Architect** · **Technical Founder / Builder**
 
-🌍 *Europe & international product teams* · 💼 *Full-time / Hybrid / On-site*
+Europe & international product teams · Full-time / Hybrid / On-site
 
-<sub>🇹🇷 Turkish: Native · 🇬🇧 English: B2 (professional working proficiency)</sub>
+Turkish: Native · English: B2 (professional working proficiency)
 
 </div>
 
