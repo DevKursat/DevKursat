@@ -24,6 +24,24 @@ jobs:
               "github-snake-dark": ["#2C1810,#40E0D0,#5FEED0,#1A0F08,#40E0D0"]
             }
 
+      - name: Recolor SVG — brown background + turquoise snake
+        run: |
+          # GitHub default palette: dark bg, then 4 green shades, then light bg
+          # Map them to: dark brown, turquoise, light turquoise, darker brown, light brown
+          for f in ./dist/github-snake.svg ./dist/github-snake-dark.svg; do
+            [ -f "$f" ] || continue
+            sed -i \
+              -e 's/#1b1f23/#2C1810/gi' \
+              -e 's/#216e39/#40E0D0/gi' \
+              -e 's/#30a14e/#5FEED0/gi' \
+              -e 's/#40c463/#7FFFD4/gi' \
+              -e 's/#9be9a8/#1A0F08/gi' \
+              -e 's/#ebedf0/#3D2817/gi' \
+              "$f"
+          done
+          echo "---recolored---"
+          head -3 ./dist/github-snake.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
