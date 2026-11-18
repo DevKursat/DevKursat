@@ -31,14 +31,14 @@ jobs:
           # (variable_name, new_color) — target CSS variables directly
           # Original Platane/snk: --c0..c4 (levels), --ce (empty), --cb (border w/ alpha)
           mapping = [
-              ("--cb:", "#2C1810"),     # control border (alpha stripped)
-              ("--cs:", "#40E0D0"),     # control stroke
-              ("--ce:", "#1A0F08"),     # control empty -> dark brown
+              ("--cb:", "#2C1810"),     # control border
+              ("--cs:", "#40E0D0"),     # snake body stroke
+              ("--ce:", "#1A0F08"),     # empty background
               ("--c0:", "#2C1810"),     # level 0 -> dark brown bg
-              ("--c1:", "#40E0D0"),     # level 1 -> turquoise
-              ("--c2:", "#5FEED0"),     # level 2 -> light turquoise
-              ("--c3:", "#7FFFD4"),     # level 3 -> aquamarine
-              ("--c4:", "#40E0D0"),     # level 4 -> turquoise
+              ("--c1:", "#1D7874"),     # level 1 -> deep teal
+              ("--c2:", "#2EC4B6"),     # level 2 -> vibrant turquoise
+              ("--c3:", "#5FEED0"),     # level 3 -> bright mint turquoise
+              ("--c4:", "#A0FFE6"),     # level 4 -> neon aquamarine peak
           ]
           for f in pathlib.Path("./dist").glob("*.svg"):
               txt = f.read_text()
